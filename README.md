@@ -4,6 +4,8 @@
 
 XiaoPan 21 届毕业生 实习一个半月
 
+`加油哇`
+
 ```javascript
 console.log('加油哈')
 ```
